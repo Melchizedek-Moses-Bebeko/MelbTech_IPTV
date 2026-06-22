@@ -23,3 +23,6 @@ M3U / M3U8 — Standard IPTV playlist format
 HLS (.m3u8 streams) — HTTP Live Streaming via HLS.js
 MP4 / WebM — Direct video files
 MPEG-TS — Where browser-supported
+
+To test Import this Playlist via URL then load to stream:
+https://iptv-org.github.io/iptv/index.m3u
